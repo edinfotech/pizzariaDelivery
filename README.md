@@ -11,4 +11,4 @@ As pizzas tem valores diferentes dependendo do tamanho e tipo.
   <li>uso API com JSON para simular cadastro de pizzas</li>
  </ul> 
   
-  <a href="" >Demonstraçâo</a>
+  <a href="https://edinfotech.github.io/pizzariaDelivery/home.html">Demonstraçâo</a>
