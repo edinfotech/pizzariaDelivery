@@ -9,7 +9,7 @@ document.querySelector('.success.pizzaWindowArea').style.display = 'none';
 
 const api = fetch(
   
-    "https://edinfotech.github.io/compraPizza/apiPizzaList.json"
+    "https://edinfotech.github.io/pizzariaDelivery/apiPizzaList.json"
 )
 	.then((response) => response.json())
 	.then((data) => {
